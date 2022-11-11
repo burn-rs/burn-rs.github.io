@@ -1,0 +1,425 @@
+{
+  "node_modules/.pnpm/solid-js@1.6.1/node_modules/solid-js/dist/dev.js": [],
+  "node_modules/.pnpm/solid-js@1.6.1/node_modules/solid-js/web/dist/dev.js": [],
+  "\u0000vite/preload-helper": [],
+  "node_modules/.pnpm/solid-start@0.2.5_hbwrjiud3j45e6mxm6q434ty3e/node_modules/solid-start/entry-client/mount.tsx": [],
+  "node_modules/.pnpm/@solidjs+meta@0.28.2_solid-js@1.6.1/node_modules/@solidjs/meta/dist/index.jsx": [],
+  "node_modules/.pnpm/@solidjs+router@0.5.0_solid-js@1.6.1/node_modules/@solidjs/router/dist/integration.js": [],
+  "node_modules/.pnpm/@solidjs+router@0.5.0_solid-js@1.6.1/node_modules/@solidjs/router/dist/utils.js": [],
+  "node_modules/.pnpm/@solidjs+router@0.5.0_solid-js@1.6.1/node_modules/@solidjs/router/dist/routing.js": [],
+  "node_modules/.pnpm/@solidjs+router@0.5.0_solid-js@1.6.1/node_modules/@solidjs/router/dist/components.jsx": [],
+  "node_modules/.pnpm/solid-start@0.2.5_hbwrjiud3j45e6mxm6q434ty3e/node_modules/solid-start/root/FileRoutes.tsx": [],
+  "node_modules/.pnpm/solid-start@0.2.5_hbwrjiud3j45e6mxm6q434ty3e/node_modules/solid-start/server/ServerContext.tsx": [],
+  "node_modules/.pnpm/solid-js@1.6.1/node_modules/solid-js/store/dist/dev.js": [],
+  "node_modules/.pnpm/solid-start@0.2.5_hbwrjiud3j45e6mxm6q434ty3e/node_modules/solid-start/router.tsx": [],
+  "node_modules/.pnpm/solid-start@0.2.5_hbwrjiud3j45e6mxm6q434ty3e/node_modules/solid-start/server/types.tsx": [],
+  "node_modules/.pnpm/solid-start@0.2.5_hbwrjiud3j45e6mxm6q434ty3e/node_modules/solid-start/error-boundary/ErrorBoundary.tsx": [],
+  "node_modules/.pnpm/solid-start@0.2.5_hbwrjiud3j45e6mxm6q434ty3e/node_modules/solid-start/root/Scripts.tsx": [],
+  "node_modules/.pnpm/solid-start@0.2.5_hbwrjiud3j45e6mxm6q434ty3e/node_modules/solid-start/root/Document.tsx": [],
+  "node_modules/.pnpm/solid-toast@0.3.5_solid-js@1.6.1/node_modules/solid-toast/dist/source/types/toast.js": [],
+  "node_modules/.pnpm/solid-toast@0.3.5_solid-js@1.6.1/node_modules/solid-toast/dist/source/types/store.js": [],
+  "node_modules/.pnpm/solid-toast@0.3.5_solid-js@1.6.1/node_modules/solid-toast/dist/source/core/store.js": [],
+  "node_modules/.pnpm/solid-toast@0.3.5_solid-js@1.6.1/node_modules/solid-toast/dist/source/core/defaults.js": [],
+  "node_modules/.pnpm/solid-toast@0.3.5_solid-js@1.6.1/node_modules/solid-toast/dist/source/util/util.js": [],
+  "node_modules/.pnpm/solid-toast@0.3.5_solid-js@1.6.1/node_modules/solid-toast/dist/source/util/styles.js": [],
+  "node_modules/.pnpm/solid-toast@0.3.5_solid-js@1.6.1/node_modules/solid-toast/dist/source/core/toast.js": [],
+  "node_modules/.pnpm/solid-toast@0.3.5_solid-js@1.6.1/node_modules/solid-toast/dist/source/components/Toaster.jsx": [],
+  "node_modules/.pnpm/solid-toast@0.3.5_solid-js@1.6.1/node_modules/solid-toast/dist/source/components/ToastBar.jsx": [],
+  "node_modules/.pnpm/solid-toast@0.3.5_solid-js@1.6.1/node_modules/solid-toast/dist/source/components/ToastContainer.jsx": [],
+  "node_modules/.pnpm/solid-toast@0.3.5_solid-js@1.6.1/node_modules/solid-toast/dist/source/components/IconCircle.jsx": [],
+  "node_modules/.pnpm/solid-toast@0.3.5_solid-js@1.6.1/node_modules/solid-toast/dist/source/components/SuccessIcon.jsx": [],
+  "node_modules/.pnpm/solid-toast@0.3.5_solid-js@1.6.1/node_modules/solid-toast/dist/source/components/ErrorIcon.jsx": [],
+  "node_modules/.pnpm/solid-toast@0.3.5_solid-js@1.6.1/node_modules/solid-toast/dist/source/components/LoaderIcon.jsx": [],
+  "node_modules/.pnpm/solid-toast@0.3.5_solid-js@1.6.1/node_modules/solid-toast/dist/source/index.jsx": [],
+  "src/assets/global.css": [],
+  "src/context/theme.tsx": [],
+  "src/root.tsx": [],
+  "node_modules/.pnpm/solid-start@0.2.5_hbwrjiud3j45e6mxm6q434ty3e/node_modules/solid-start/entry-client/StartClient.tsx": [],
+  "node_modules/.pnpm/@lottiefiles+lottie-player@1.6.0/node_modules/@lottiefiles/lottie-player/dist/lottie-player.esm.js": [],
+  "src/entry-client.tsx": [],
+  "_...404_.c65468c1.js": [],
+  "index.4c544df7.js": [
+    "/assets/index.37f45327.css"
+  ],
+  "src/routes/[...404].tsx": [
+    "/assets/_...404_.c65468c1.js"
+  ],
+  "src/components/outterlink/index.tsx": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "\u0000commonjsHelpers.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "\u0000/home/runner/work/burn-rs.github.io/burn-rs.github.io/node_modules/.pnpm/prismjs@1.29.0/node_modules/prismjs/components/prism-core.js?commonjs-module": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/prismjs@1.29.0/node_modules/prismjs/components/prism-core.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/prismjs@1.29.0/node_modules/prismjs/components/prism-rust.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "src/assets/prism-theme.css": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/array.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/clamp.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/defaults.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/is-number.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/is-easing-list.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/wrap.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/easing.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/mix.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/noop.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/progress.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/offset.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/interpolate.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/is-cubic-bezier.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/is-easing-generator.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/is-function.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/is-string.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+utils@10.14.0/node_modules/@motionone/utils/dist/time.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+easing@10.14.0/node_modules/@motionone/easing/dist/cubic-bezier.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+easing@10.14.0/node_modules/@motionone/easing/dist/steps.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+animation@10.14.0/node_modules/@motionone/animation/dist/utils/easing.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+animation@10.14.0/node_modules/@motionone/animation/dist/Animation.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+types@10.14.0/node_modules/@motionone/types/dist/MotionValue.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/animate/data.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/animate/utils/transforms.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/animate/utils/css-var.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/animate/utils/feature-detection.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/animate/utils/easing.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/animate/utils/keyframes.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/animate/utils/get-style-name.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/animate/style.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/animate/utils/stop-animation.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/animate/utils/get-unit.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/animate/animate-style.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/animate/utils/options.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/utils/resolve-elements.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/tslib@2.4.0/node_modules/tslib/tslib.es6.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/gestures/in-view.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/state/utils/has-changed.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/state/utils/is-variant.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/state/utils/resolve-variant.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/state/utils/schedule.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/state/utils/events.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/state/gestures/in-view.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/state/gestures/hover.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/state/gestures/press.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/state/index.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+dom@10.14.3/node_modules/@motionone/dom/dist/animate/utils/style-object.es.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+solid@10.14.3_solid-js@1.6.1/node_modules/@motionone/solid/dist/source/context.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+solid@10.14.3_solid-js@1.6.1/node_modules/@motionone/solid/dist/source/primitives.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@solid-primitives+props@2.2.2_solid-js@1.6.1/node_modules/@solid-primitives/props/dist/source/combineProps.js": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "node_modules/.pnpm/@motionone+solid@10.14.3_solid-js@1.6.1/node_modules/@motionone/solid/dist/source/motion.jsx": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "src/assets/logo.png": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "src/assets/burn.png": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "src/content/features.tsx": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "src/content/examples.ts": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "src/content/footer.tsx": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ],
+  "src/routes/index.tsx": [
+    "/assets/index.4c544df7.js",
+    "/assets/index.37f45327.css",
+    "/assets/logo.d7813d0c.png",
+    "/assets/burn.33192fe7.png"
+  ]
+}

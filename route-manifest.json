@@ -1,0 +1,53 @@
+{
+  "/*404": [
+    {
+      "type": "script",
+      "href": "/assets/_...404_.c65468c1.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/entry-client.21216b4b.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/entry-client.abbb3e90.css"
+    }
+  ],
+  "/": [
+    {
+      "type": "script",
+      "href": "/assets/index.4c544df7.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/entry-client.21216b4b.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/entry-client.abbb3e90.css"
+    },
+    {
+      "type": "style",
+      "href": "/assets/index.37f45327.css"
+    },
+    {
+      "type": "asset",
+      "href": "/assets/logo.d7813d0c.png"
+    },
+    {
+      "type": "asset",
+      "href": "/assets/burn.33192fe7.png"
+    }
+  ],
+  "entry-client": [
+    {
+      "type": "script",
+      "href": "/assets/entry-client.21216b4b.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/entry-client.abbb3e90.css"
+    }
+  ],
+  "index.html": []
+}
